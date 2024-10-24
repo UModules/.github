@@ -7,7 +7,7 @@ Our mission is to provide developers with well-optimized, easy-to-use solutions 
 ## 🏗️ Unity Projects
 Here are some of the Unity-related repositories that you can find in UModules:
 - **[UAPI-Coroutine](https://github.com/UModules/UAPI-Coroutine)** - A powerful coroutine framework tailored for Unity projects, designed to improve the management of asynchronous tasks.
-- **[UAPI](https://github.com/UModules/UAPI)** - A flexible and lightweight API designed to simplify communication between components within Unity projects.
+- **[UAPI-UniTask](https://github.com/UModules/UAPI-UniTask)** - A flexible and lightweight API designed to simplify communication between components within Unity projects.
 - **[UScrollSnap](https://github.com/UModules/UScrollSnap)** - A smooth and optimized scroll snapping solution for Unity’s UI system.
 - **[UMinMaxSlider](https://github.com/UModules/UMinMaxSlider)** - A customizable Min-Max slider for Unity’s UI, perfect for selecting ranges with precision.
 
