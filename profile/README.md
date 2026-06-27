@@ -48,8 +48,8 @@ Here’s what we are focusing on in the near future:
 ## 📈 Stay Connected
 
 Follow us on GitHub to stay up to date with the latest releases, or get involved by contributing to the community!
-- **Personal Website**: [Visit my website](https://www.https://useffarahmand.com/)
-- **Telegram**: [Join our Telegram Channel](https://t.me/UsefDigitalNotes)
+- **Personal Website**: [Visit my website](https://www.useffarahmand.com/)
+- **Telegram**: [Join our Telegram Channel](https://t.me/UsefGameLab)
 - **LinkedIn**: [Connect with me on LinkedIn](https://linkedin.com/in/useffarahmand)
 
 Happy coding with Unity! 🎮🚀
